@@ -128,6 +128,8 @@ k が偶数の場合, S2 = t + 0x9e.
 
 [図書館員のコンピュータ基礎講座 JIS X 0208およびJIS X 0213の字形・字体の変更点](http://www.asahi-net.or.jp/~ax2s-kmtn/ref/jisrev.html)
 
+[めくるめくEmojiの世界/emoji-world](https://speakerdeck.com/ima1zumi/emoji-world)
+
 [Character Sets IANA](https://www.iana.org/assignments/character-sets/character-sets.xhtml)
 
 
